@@ -1,0 +1,11 @@
+[package]
+name = "RUST-Chip-8"
+version = "0.1.0"
+authors = ["tiibo"]
+
+[dependencies]
+byteorder = "1.0.0"
+colored = "^1.5"
+rand = "0.3.14"
+minifb = "0.9.1"
+time = "0.1.37"
